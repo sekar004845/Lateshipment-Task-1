@@ -85,6 +85,23 @@
   top: 400px;
   bottom: 0;
  }
+ .first-image{
+  padding: 10px;
+ }
+ @media(min-width:320px){
+  .first-image{
+    padding: 0px;
+   }
+ }
+ @media(min-width:690px){
+  .first-image{
+    padding: 10px;
+   }
+ }
+ @media(min-width:1020px){
+  .first-image{
+    padding: 10px;
+   }
  @media(min-width:320px){
   .section-1{
     position: absolute;
